@@ -4,14 +4,10 @@
     { "Accountid": "77891000002", "Accounttype": "Savings", "RoutingNumber":"075403707" },
     { "Accountid": "64521000003", "Accounttype": "Checking","RoutingNumber":"084134707" }
   ],
-  "posts": [
-    { "Accountid": 1000001, "Accountname": "Deposit", "Accounttype":"Checking Account","AccountBalance":"4888.02" },
-    { "Accountid": 1000002, "Accountname": "Credit", "Accounttype":"Airline Creditcard","AccountBalance":"4042.52" },
-    { "Accountid": 1000003, "Accountname": "Mortgage", "Accounttype":"Conventional","AccountBalance":"420423.82" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "Balance": [
+    { "Accountid": 1000001, "Accounttype": "Deposit", "Accountdesc":"Checking","AccountBalance":"4888.02" },
+    { "Accountid": 1000002, "Accounttype": "Credit", "Accountdesc":"AirlineCreditcard","AccountBalance":"4042.52" },
+    { "Accountid": 1000003, "Accounttype": "Mortgage", "Accountdesc":"Conventional","AccountBalance":"420423.82" }
   ],
   "profile": {
     "name": "typicode"
