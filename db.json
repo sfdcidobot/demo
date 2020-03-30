@@ -1,6 +1,6 @@
 {
   "routing": [
-    { "Accountid": "89751000001", "Accountype": "Checking","RoutingNumber":"0641092707" },
+    { "Accountid": "89751000001", "Accounttype": "Checking","RoutingNumber":"0641092707" },
     { "Accountid": "77891000002", "Accounttype": "Savings", "RoutingNumber":"075403707" },
     { "Accountid": "64521000003", "Accounttype": "Checking","RoutingNumber":"084134707" }
   ],
