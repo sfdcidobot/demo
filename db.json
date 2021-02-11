@@ -9,6 +9,11 @@
     { "Accountid": 1000002, "Accountname": "Credit", "Accounttype":"Airline Creditcard","AccountBalance":"4042.52" },
     { "Accountid": 1000003, "Accountname": "Mortgage", "Accounttype":"Conventional","AccountBalance":"420423.82" }
   ],
+   "prodpricefees": [
+    { "Prodid": 1000001, "Prodname": "30yrConf", "Rate":"4.00%","Points":"0","Fees":"400" },
+    { "Prodid": 1000002, "Prodname": "15yrConf", "Rate":"3.00%","Points":"0","Fees":"300" },
+    { "Prodid": 1000003, "Prodname": "5yrARM", "Rate":"2.00%","Points":"0","Fees":"200" }     
+  ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
